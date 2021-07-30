@@ -10,8 +10,9 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 </p>
 
 ### ✌️ About Me
+
+- 🌱 I’m currently learning: Tailwindcss
 <!--
-- 🌱 I’m currently learning: Go-lang
 - 📖 I’m currently working on: Moments
 -->
 - 📫 How to reach me: LinkedIn or Email
