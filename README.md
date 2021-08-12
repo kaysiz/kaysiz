@@ -11,7 +11,7 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 
 ### ✌️ About Me
 
-- 🌱 I’m currently learning: Tailwindcss
+- 🌱 I’m currently learning: Elixir
 <!--
 - 📖 I’m currently working on: Moments
 -->
