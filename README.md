@@ -12,10 +12,7 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 ### ✌️ About Me
 
 - 🌱 I’m currently learning: Go
-<!--
-- 📖 I’m currently working on: Moments
--->
-- 📫 How to reach me: LinkedIn or Email
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ksiziva/) or Email
 
 ### Dev Things
 
