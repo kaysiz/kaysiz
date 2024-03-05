@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Kudakwashe (Kuda)
+## 👋 Hello! I'm Kudakwashe Siziva
 
 I'm a fullstack developer currently living in Johannesburg, South Africa.
 
