@@ -4,7 +4,7 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 
 <!-- Connect Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/kudakwashe-siziva-42a06949/">
+  <a href="https://www.linkedin.com/in/ksiziva/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
 </p>
@@ -12,13 +12,13 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 ### ✌️ About Me
 
 - 🌱 I’m currently learning: Go
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ksiziva/) or Email
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ksiziva/)
 
 ### Dev Things
 
 #### Github Stats
 
-[![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Kudakwashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <details>
   <summary><b>🖥️ Languages & Technologies</b></summary>
