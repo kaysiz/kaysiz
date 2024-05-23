@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Kudakwashe Siziva
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Kudakwashe Siziva
 
 I'm a fullstack developer currently living in Johannesburg, South Africa.
 
@@ -18,7 +18,11 @@ I'm a fullstack developer currently living in Johannesburg, South Africa.
 
 #### Github Stats
 
-[![Kudakwashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Kudakwashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiz&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiz&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaysiz)](https://git.io/streak-stats)
 
 <details>
   <summary><b>🖥️ Languages & Technologies</b></summary>
